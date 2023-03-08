@@ -1,5 +1,5 @@
 - 👋 Hello, this is @Fl0zz3.
-- I'm currently still in school studying Applied Informatics: System and Software engineering.
+- Durpal developer somewhere
 - The programming languages I enjoy using as of now are JavaScript (and most of its frameworks) and PHP (Laravel mainly).
 - There's no way to reach me as of now (remind me to update this on a later day!).
 - 🦆
